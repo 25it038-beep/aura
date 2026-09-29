@@ -1,0 +1,6 @@
+{
+  "name": "AURA — AI-Powered 24/7 Autonomous Cashierless Smart Store",
+  "description": "Interactive 3D engineering simulation and product showcase for an AI-Powered 24/7 Autonomous Cashierless Smart Store using Computer Vision, IoT Sensor Fusion, and Smart Infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
