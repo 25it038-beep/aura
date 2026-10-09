@@ -362,10 +362,14 @@ export default function App() {
                 <span>Smart Infrastructure</span>
               </div>
 
-              <h1 className="font-display text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.04] text-white">
-                AI-POWERED
-                <span className="block text-slate-200">24/7 AUTONOMOUS</span>
-                <span className="block text-amber-400">CASHIERLESS SMART STORE</span>
+              <h1 className="font-display text-3xl sm:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.08] text-white">
+                Multimodal AI and IoT Sensor Fusion
+                <span className="block text-slate-200 text-2xl sm:text-4xl lg:text-5xl mt-2">
+                  for Autonomous Retail
+                </span>
+                <span className="block text-amber-400 text-xl sm:text-3xl lg:text-4xl mt-2 font-semibold">
+                  Using Computer Vision and Sensor Fusion
+                </span>
               </h1>
 
               <p className="text-base sm:text-lg text-slate-300 max-w-xl leading-relaxed">
@@ -1572,7 +1576,7 @@ export default function App() {
           <footer className="pointer-events-auto mt-16 pt-8 border-t border-white/10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-xs text-slate-400">
             <div className="space-y-1">
               <p className="font-semibold text-slate-200">
-                AI-Powered 24/7 Autonomous Cashierless Smart Store Using Computer Vision and IoT
+                Multimodal AI and IoT Sensor Fusion for Autonomous Retail Using Computer Vision and Sensor Fusion
               </p>
               <p>
                 Computer Vision · Multi-Sensor Fusion · Smart Shelf Telemetry · Autonomous Facility
